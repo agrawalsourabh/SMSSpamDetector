@@ -16,5 +16,4 @@ The files contain one message per line. Each line is composed by two columns: v1
 ![wordcloud](https://user-images.githubusercontent.com/8282374/66025788-e96f4180-e514-11e9-859c-6cd7f7427975.png)
 
 </br>
-![SpamVsNotSpam](https://user-images.githubusercontent.com/8282374/66025865-1ae80d00-e515-11e9-832c-26307f1fdc49.png)
-
+https://user-images.githubusercontent.com/8282374/66025865-1ae80d00-e515-11e9-832c-26307f1fdc49.png
